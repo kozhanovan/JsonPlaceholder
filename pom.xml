@@ -12,7 +12,6 @@
         <maven.compiler.source>20</maven.compiler.source>
         <maven.compiler.target>20</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <junit.version>5.10.2</junit.version>
         <spring.boot.version>3.2.2</spring.boot.version>
     </properties>
 
